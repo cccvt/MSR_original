@@ -1,5 +1,6 @@
+# ignore
+
+MSR_original
+*.o
 *.jpg
 
-*.o    
-
-MSR_original     
